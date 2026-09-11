@@ -1,0 +1,579 @@
+{
+  "engine": "JW EDS Audio Engine",
+  "libraryName": "Robbo's Trakway Trivia",
+  "appName": "Robbo's Trakway Trivia",
+  "description": "Expanded 94-line game-show host phrase pack with Chesterfield / Mansfield / Worksop banter and Trakway safety-topic callouts.",
+  "voiceSpec": {
+    "gender": "male",
+    "ageBand": "40s",
+    "accent": "Chesterfield / Mansfield / Worksop; East Midlands with Yorkshire-border flavour",
+    "mood": "fun, energetic, quick-witted, dry site banter, confident game-show host, never cartoonishly exaggerated"
+  },
+  "scriptDescription": "Game-show host phrases for all stages of Robbo’s Trakway Trivia: intros, question lead-ins, correct/wrong responses, score transitions, outros, plus contextual Trakway safety lines.",
+  "phrases": [
+    {
+      "key": "001_intro",
+      "category": "Intro",
+      "text": "Ey up, youth — welcome to Robbo’s Trakway Trivia. Reet then, no hiding behind the brew this time.",
+      "order": 1
+    },
+    {
+      "key": "002_intro",
+      "category": "Intro",
+      "text": "Right, troops. Helmets on, brains switched on — Robbo’s Trakway Trivia is live.",
+      "order": 2
+    },
+    {
+      "key": "003_intro",
+      "category": "Intro",
+      "text": "Ey up. Chesterfield, Mansfield, Worksop — settle thi arguments. We’re finding out who actually knows the job.",
+      "order": 3
+    },
+    {
+      "key": "004_intro",
+      "category": "Intro",
+      "text": "Welcome in. It’s Trakway knowledge, site banter and absolutely no points for looking confident.",
+      "order": 4
+    },
+    {
+      "key": "005_intro",
+      "category": "Intro",
+      "text": "Robbo’s in the chair. Teams ready? Good. Let’s see who’s been listening and who’s just been waiting for brew.",
+      "order": 5
+    },
+    {
+      "key": "006_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "Here’s thi next one — nice and steady.",
+      "order": 6
+    },
+    {
+      "key": "007_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "Reet, youth, get thi sen round this one.",
+      "order": 7
+    },
+    {
+      "key": "008_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "No shouting from the back. Here comes the question.",
+      "order": 8
+    },
+    {
+      "key": "009_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "This one separates operators from professional brew drinkers.",
+      "order": 9
+    },
+    {
+      "key": "010_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "Think before tha taps. There’s no rewind on site and none in Robbo’s quiz either.",
+      "order": 10
+    },
+    {
+      "key": "011_question_lead_ins",
+      "category": "Question lead-ins",
+      "text": "Right then — what would tha actually do, not what sounds clever in the canteen?",
+      "order": 11
+    },
+    {
+      "key": "012_correct",
+      "category": "Correct",
+      "text": "Reet job, youth — panel’s in.",
+      "order": 12
+    },
+    {
+      "key": "013_correct",
+      "category": "Correct",
+      "text": "That’s the one. Proper answer, properly locked in.",
+      "order": 13
+    },
+    {
+      "key": "014_correct",
+      "category": "Correct",
+      "text": "Bang on. Somebody’s actually read the method statement.",
+      "order": 14
+    },
+    {
+      "key": "015_correct",
+      "category": "Correct",
+      "text": "Correct. Tha can keep thi imaginary hi-vis for another round.",
+      "order": 15
+    },
+    {
+      "key": "016_correct",
+      "category": "Correct",
+      "text": "Spot on. Robbo approves — and that’s rarer than an empty brew queue.",
+      "order": 16
+    },
+    {
+      "key": "017_correct",
+      "category": "Correct",
+      "text": "Correct answer. Clean lift, clean point.",
+      "order": 17
+    },
+    {
+      "key": "018_correct",
+      "category": "Correct",
+      "text": "Yes, youth. That’s exactly it.",
+      "order": 18
+    },
+    {
+      "key": "019_correct",
+      "category": "Correct",
+      "text": "Nailed it. No drama, no waffle, just the right answer.",
+      "order": 19
+    },
+    {
+      "key": "020_wrong",
+      "category": "Wrong",
+      "text": "Close, sen, but we don’t install panels on close.",
+      "order": 20
+    },
+    {
+      "key": "021_wrong",
+      "category": "Wrong",
+      "text": "Nope. Tha’s sent that one straight into the purple zone.",
+      "order": 21
+    },
+    {
+      "key": "022_wrong",
+      "category": "Wrong",
+      "text": "Wrong answer. Somewhere, a lift supervisor has just sighed.",
+      "order": 22
+    },
+    {
+      "key": "023_wrong",
+      "category": "Wrong",
+      "text": "Not this time, youth. Have another brew and think about thi choices.",
+      "order": 23
+    },
+    {
+      "key": "024_wrong",
+      "category": "Wrong",
+      "text": "That’s gone a bit Worksop on a Friday afternoon.",
+      "order": 24
+    },
+    {
+      "key": "025_wrong",
+      "category": "Wrong",
+      "text": "Robbo says no. Back to the method statement with thee.",
+      "order": 25
+    },
+    {
+      "key": "026_wrong",
+      "category": "Wrong",
+      "text": "Wrong one. Good news is nobody’s actually lifted owt.",
+      "order": 26
+    },
+    {
+      "key": "027_wrong",
+      "category": "Wrong",
+      "text": "That answer’s got more wobble than a panel in a crosswind.",
+      "order": 27
+    },
+    {
+      "key": "028_clamp_swl",
+      "category": "Clamp SWL",
+      "text": "Clamp question. Don’t guess — what matters before that panel leaves the deck?",
+      "order": 28
+    },
+    {
+      "key": "029_clamp_swl",
+      "category": "Clamp SWL",
+      "text": "If tha doesn’t know the clamp SWL, tha doesn’t know whether tha can make the lift. Simple as that.",
+      "order": 29
+    },
+    {
+      "key": "030_clamp_swl",
+      "category": "Clamp SWL",
+      "text": "Correct — capacity has to suit the load and the planned configuration. No pub maths.",
+      "order": 30
+    },
+    {
+      "key": "031_clamp_swl",
+      "category": "Clamp SWL",
+      "text": "Wrong — the clamp looking sturdy is not a lifting calculation, youth.",
+      "order": 31
+    },
+    {
+      "key": "032_wind_limit",
+      "category": "Wind limit",
+      "text": "Wind limit next. Remember, gusts count as weather as well.",
+      "order": 32
+    },
+    {
+      "key": "033_wind_limit",
+      "category": "Wind limit",
+      "text": "If the wind’s outside the limit, what’s Robbo’s favourite lifting technique? Stop.",
+      "order": 33
+    },
+    {
+      "key": "034_wind_limit",
+      "category": "Wind limit",
+      "text": "Correct — conditions get checked against the lift plan, not against how brave everybody feels.",
+      "order": 34
+    },
+    {
+      "key": "035_wind_limit",
+      "category": "Wind limit",
+      "text": "Wrong — ‘it’ll be reet’ is not a wind-speed control measure.",
+      "order": 35
+    },
+    {
+      "key": "036_red_and_purple_zones",
+      "category": "Red and Purple Zones",
+      "text": "Zone question. Red means what, purple means what — and who should be where?",
+      "order": 36
+    },
+    {
+      "key": "037_red_and_purple_zones",
+      "category": "Red and Purple Zones",
+      "text": "Don’t let the colours fool thee. The exclusion controls only work if people respect them.",
+      "order": 37
+    },
+    {
+      "key": "038_red_and_purple_zones",
+      "category": "Red and Purple Zones",
+      "text": "Correct — keep people out of the danger area and control access properly.",
+      "order": 38
+    },
+    {
+      "key": "039_red_and_purple_zones",
+      "category": "Red and Purple Zones",
+      "text": "If somebody wanders into the wrong zone, the lift pauses. No debate, no heroics.",
+      "order": 39
+    },
+    {
+      "key": "040_test_lift",
+      "category": "Test lift",
+      "text": "Test lift. Small movement, big information — what are we proving before committing?",
+      "order": 40
+    },
+    {
+      "key": "041_test_lift",
+      "category": "Test lift",
+      "text": "Correct — prove the load, attachment and control before carrying on with the full lift.",
+      "order": 41
+    },
+    {
+      "key": "042_test_lift",
+      "category": "Test lift",
+      "text": "Wrong — a test lift is not the ceremonial bit we skip because everyone looks busy.",
+      "order": 42
+    },
+    {
+      "key": "043_test_lift",
+      "category": "Test lift",
+      "text": "Nice one. Controlled test first, then proceed when everything behaves as planned.",
+      "order": 43
+    },
+    {
+      "key": "044_paddles",
+      "category": "Paddles",
+      "text": "Paddles next. They’re there to control the load, not decorate the truck.",
+      "order": 44
+    },
+    {
+      "key": "045_paddles",
+      "category": "Paddles",
+      "text": "Correct — use the planned handling aids and keep hands out of the danger areas.",
+      "order": 45
+    },
+    {
+      "key": "046_paddles",
+      "category": "Paddles",
+      "text": "Wrong — grabbing the panel because it’s quicker is exactly how quick jobs become incidents.",
+      "order": 46
+    },
+    {
+      "key": "047_paddles",
+      "category": "Paddles",
+      "text": "Reet. Good paddle control, good body position, much less shouting.",
+      "order": 47
+    },
+    {
+      "key": "048_sockets_and_connections",
+      "category": "Sockets and connections",
+      "text": "Sockets and connections — check them before tha commits the lift.",
+      "order": 48
+    },
+    {
+      "key": "049_sockets_and_connections",
+      "category": "Sockets and connections",
+      "text": "Correct. Positive connection, proper inspection, no wishful thinking.",
+      "order": 49
+    },
+    {
+      "key": "050_sockets_and_connections",
+      "category": "Sockets and connections",
+      "text": "Wrong. If the connection is damaged, doubtful or not seated, the answer is stop and sort it.",
+      "order": 50
+    },
+    {
+      "key": "051_sockets_and_connections",
+      "category": "Sockets and connections",
+      "text": "A socket isn’t ‘nearly in’. It’s either correctly engaged or it isn’t.",
+      "order": 51
+    },
+    {
+      "key": "052_communication",
+      "category": "Communication",
+      "text": "Communication question. One lift, one clear system, no committee meeting over the radio.",
+      "order": 52
+    },
+    {
+      "key": "053_communication",
+      "category": "Communication",
+      "text": "Correct — agreed signals, clear responsibility and no mixed instructions.",
+      "order": 53
+    },
+    {
+      "key": "054_communication",
+      "category": "Communication",
+      "text": "Wrong — three people shouting different things does not equal extra supervision.",
+      "order": 54
+    },
+    {
+      "key": "055_communication",
+      "category": "Communication",
+      "text": "If communication is lost, what happens? Correct: the movement stops until control is restored.",
+      "order": 55
+    },
+    {
+      "key": "056_exclusion_zone",
+      "category": "Exclusion zone",
+      "text": "Exclusion zone now. Who actually needs to be inside it? As few people as the job genuinely requires.",
+      "order": 56
+    },
+    {
+      "key": "057_exclusion_zone",
+      "category": "Exclusion zone",
+      "text": "Correct — establish it, maintain it and challenge anyone entering without a reason.",
+      "order": 57
+    },
+    {
+      "key": "058_exclusion_zone",
+      "category": "Exclusion zone",
+      "text": "Wrong — cones by themselves don’t manage people. Supervision does.",
+      "order": 58
+    },
+    {
+      "key": "059_exclusion_zone",
+      "category": "Exclusion zone",
+      "text": "The exclusion zone travels with the risk, youth. Don’t leave the danger and move the barrier.",
+      "order": 59
+    },
+    {
+      "key": "060_gs6_and_ohl",
+      "category": "GS6 and OHL",
+      "text": "Overhead lines. GS6 time — this is not the round for guesswork.",
+      "order": 60
+    },
+    {
+      "key": "061_gs6_and_ohl",
+      "category": "GS6 and OHL",
+      "text": "Correct — identify the hazard, set the controls and keep the safe clearance arrangements intact.",
+      "order": 61
+    },
+    {
+      "key": "062_gs6_and_ohl",
+      "category": "GS6 and OHL",
+      "text": "Wrong — goalposts are a control, not permission to forget where the conductors are.",
+      "order": 62
+    },
+    {
+      "key": "063_gs6_and_ohl",
+      "category": "GS6 and OHL",
+      "text": "If the set-up changes, recheck the overhead-line risk. Yesterday’s measurement is not today’s guarantee.",
+      "order": 63
+    },
+    {
+      "key": "064_gs6_and_ohl",
+      "category": "GS6 and OHL",
+      "text": "Good answer. Electricity does not care how experienced the crew is.",
+      "order": 64
+    },
+    {
+      "key": "065_teams_and_roles",
+      "category": "Teams and roles",
+      "text": "Team question. Everybody has a job, but that doesn’t mean everybody gives lifting instructions.",
+      "order": 65
+    },
+    {
+      "key": "066_teams_and_roles",
+      "category": "Teams and roles",
+      "text": "Correct — roles are defined before the lift so responsibility doesn’t become a group mystery.",
+      "order": 66
+    },
+    {
+      "key": "067_teams_and_roles",
+      "category": "Teams and roles",
+      "text": "Wrong — ‘we all know what we’re doing’ is how nobody knows who was meant to stop it.",
+      "order": 67
+    },
+    {
+      "key": "068_teams_and_roles",
+      "category": "Teams and roles",
+      "text": "One team, clear roles, clean communication. That’s the boring stuff that keeps the exciting stuff safe.",
+      "order": 68
+    },
+    {
+      "key": "069_ground_and_set_up",
+      "category": "Ground and set-up",
+      "text": "Ground conditions next. A stable crane starts with what’s underneath it.",
+      "order": 69
+    },
+    {
+      "key": "070_ground_and_set_up",
+      "category": "Ground and set-up",
+      "text": "Correct — check support, bearing conditions and the planned stabiliser arrangement before loading it.",
+      "order": 70
+    },
+    {
+      "key": "071_ground_and_set_up",
+      "category": "Ground and set-up",
+      "text": "Wrong — flat-looking ground and suitable ground are not the same thing.",
+      "order": 71
+    },
+    {
+      "key": "072_ground_and_set_up",
+      "category": "Ground and set-up",
+      "text": "If the set-up doesn’t match the plan, stop and reassess before lifting.",
+      "order": 72
+    },
+    {
+      "key": "073_dra",
+      "category": "DRA",
+      "text": "Dynamic risk assessment — not a tick-box, a live check of what’s actually changed.",
+      "order": 73
+    },
+    {
+      "key": "074_dra",
+      "category": "DRA",
+      "text": "Correct — if conditions differ from the plan, assess the change and control it before proceeding.",
+      "order": 74
+    },
+    {
+      "key": "075_dra",
+      "category": "DRA",
+      "text": "Wrong — the method statement does not magically update itself when the site changes.",
+      "order": 75
+    },
+    {
+      "key": "076_dra",
+      "category": "DRA",
+      "text": "Good. New hazard, new assessment, then a decision. Not the other way round.",
+      "order": 76
+    },
+    {
+      "key": "077_stop_work",
+      "category": "Stop work",
+      "text": "Stop-work question. What happens when something doesn’t feel controlled? Tha stops.",
+      "order": 77
+    },
+    {
+      "key": "078_stop_work",
+      "category": "Stop work",
+      "text": "Correct — anyone identifying an unsafe condition can call the stop. Sort it before restarting.",
+      "order": 78
+    },
+    {
+      "key": "079_stop_work",
+      "category": "Stop work",
+      "text": "Wrong — schedule pressure is not a control measure.",
+      "order": 79
+    },
+    {
+      "key": "080_stop_work",
+      "category": "Stop work",
+      "text": "Robbo likes this answer: stop, make safe, reassess, then continue only when the controls are back.",
+      "order": 80
+    },
+    {
+      "key": "081_stop_work",
+      "category": "Stop work",
+      "text": "No points are worth forcing a lift. Same goes for real jobs.",
+      "order": 81
+    },
+    {
+      "key": "082_responsible_person",
+      "category": "Responsible Person",
+      "text": "Responsible Person round. Who owns the operational decision when the agreed controls can’t be maintained?",
+      "order": 82
+    },
+    {
+      "key": "083_responsible_person",
+      "category": "Responsible Person",
+      "text": "Correct — escalate to the person with the authority to resolve the issue, not the nearest bloke with a radio.",
+      "order": 83
+    },
+    {
+      "key": "084_responsible_person",
+      "category": "Responsible Person",
+      "text": "Wrong — responsibility doesn’t disappear because everybody is busy.",
+      "order": 84
+    },
+    {
+      "key": "085_responsible_person",
+      "category": "Responsible Person",
+      "text": "If the job has moved outside the planned conditions, the Responsible Person needs the right information before it carries on.",
+      "order": 85
+    },
+    {
+      "key": "086_score_and_transitions",
+      "category": "Score and transitions",
+      "text": "Scores are tightening up. Suddenly everybody remembers the training.",
+      "order": 86
+    },
+    {
+      "key": "087_score_and_transitions",
+      "category": "Score and transitions",
+      "text": "Halfway there. Chesterfield’s talking big, Mansfield’s counting points and Worksop’s asking for a recount already.",
+      "order": 87
+    },
+    {
+      "key": "088_score_and_transitions",
+      "category": "Score and transitions",
+      "text": "Next round coming up. Forget the last one — unless tha got it right, then mention it repeatedly.",
+      "order": 88
+    },
+    {
+      "key": "089_score_and_transitions",
+      "category": "Score and transitions",
+      "text": "It’s close at the top. One daft answer could change everything.",
+      "order": 89
+    },
+    {
+      "key": "090_score_and_transitions",
+      "category": "Score and transitions",
+      "text": "Final few questions. This is where confident people become very interested in the floor.",
+      "order": 90
+    },
+    {
+      "key": "091_outro",
+      "category": "Outro",
+      "text": "That’s thi lot. Scores locked, reputations slightly damaged, Trakway knowledge hopefully improved.",
+      "order": 91
+    },
+    {
+      "key": "092_outro",
+      "category": "Outro",
+      "text": "Game over. If tha won, act surprised. If tha lost, blame Robbo’s accent.",
+      "order": 92
+    },
+    {
+      "key": "093_outro",
+      "category": "Outro",
+      "text": "Reet, excellent work. Take the banter, keep the learning and use the controls properly when it actually matters.",
+      "order": 93
+    },
+    {
+      "key": "094_outro",
+      "category": "Outro",
+      "text": "Robbo’s Trakway Trivia is done. Brew time — and somebody check Mansfield hasn’t edited the scoreboard.",
+      "order": 94
+    }
+  ]
+}
